@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "martinaalvarez-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235565422?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "martinaalvarez-lab",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-02-27T21:37:10.853Z",
-    "updated_at": "2026-02-27T21:37:10.853Z"
-  }
+    "updated_at": "2026-02-27T21:37:10.853Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "32763dbf-3ebd-45f7-8eb2-05aa8b932cfc": {
+      "content": [],
+      "created_at": "2026-02-27T21:37:10.870Z",
+      "created_by": "martinaalvarez-lab",
+      "title": "Latino USA Radio Program",
+      "updated_at": "2026-02-27T21:37:10.870Z",
+      "updated_by": "martinaalvarez-lab",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "32763dbf-3ebd-45f7-8eb2-05aa8b932cfc"
+  ]
 }
