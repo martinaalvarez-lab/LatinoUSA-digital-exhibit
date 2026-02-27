@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "martinaalvarez-lab",
+    "is_private": false,
+    "title": "Latino USA Radio Program",
+    "description": "In this project, I will use AVAnnotate to produce a virtual exhibit of content from audio files derived from Latino USA radio programs. ",
+    "language": "en",
+    "slug": "LatinoUSA-digital-exhibit",
+    "creator": "martinaalvarez-lab",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-27T21:37:10.853Z",
+    "updated_at": "2026-02-27T21:37:10.853Z"
   }
 }
